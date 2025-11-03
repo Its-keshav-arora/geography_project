@@ -1,6 +1,5 @@
 "use client"
 import { InfiniteMovingCards } from "@/components/ui/infinite-moving-cards";
-import { PlaceholdersAndVanishInput } from "@/components/ui/placeholders-and-vanish-input";
 
 
 export const galleryImages1 = [
